@@ -1,0 +1,22 @@
+{
+  "iri": "db2ad74f-ec45-4d46-84f8-24d36fbb4200",
+  "projectIri": "db2ad74f-ec45-4d46-84f8-24d36fbb4200",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "DCAT-AP-CZ: Specifikace pro vyhlášku č. 360/2023 Sb., o dlouhodobém řízení informačních systémů veřejné správy",
+      "en": "DCAT-AP-CZ: Specification for Decree No. 360/2023 Coll., on long-term management of public administration information systems"
+    },
+    "description": {}
+  },
+  "metadata": {
+    "creationDate": "2026-02-13T14:24:53.780Z",
+    "modificationDate": "2026-02-13T14:26:36.033Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-13T14:26:39.526Z",
+  "_exportedBy": "http://localhost:3100"
+}

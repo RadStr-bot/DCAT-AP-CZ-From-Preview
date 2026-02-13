@@ -1,0 +1,16 @@
+{
+  "iri": "dcf57f09-b722-4c01-b8e7-7566b761ac5e",
+  "projectIri": "dcf57f09-b722-4c01-b8e7-7566b761ac5e",
+  "types": [
+    "http://dataspecer.com/resources/v1/generator-configuration"
+  ],
+  "userMetadata": {},
+  "metadata": {
+    "creationDate": "2026-02-13T14:24:54.007Z",
+    "modificationDate": "2026-02-13T14:26:35.195Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-13T14:26:39.480Z",
+  "_exportedBy": "http://localhost:3100"
+}

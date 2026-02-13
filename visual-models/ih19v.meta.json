@@ -1,0 +1,16 @@
+{
+  "iri": "ih19v",
+  "projectIri": "ih19v",
+  "types": [
+    "http://dataspecer.com/resources/local/visual-model"
+  ],
+  "userMetadata": {},
+  "metadata": {
+    "creationDate": "2026-02-13T14:24:54.288Z",
+    "modificationDate": "2026-02-13T14:26:35.246Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-13T14:26:39.484Z",
+  "_exportedBy": "http://localhost:3100"
+}

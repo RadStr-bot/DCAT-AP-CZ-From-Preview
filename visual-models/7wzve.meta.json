@@ -1,0 +1,16 @@
+{
+  "iri": "7wzve",
+  "projectIri": "7wzve",
+  "types": [
+    "http://dataspecer.com/resources/local/visual-model"
+  ],
+  "userMetadata": {},
+  "metadata": {
+    "creationDate": "2026-02-13T14:24:54.605Z",
+    "modificationDate": "2026-02-13T14:26:35.294Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-13T14:26:39.487Z",
+  "_exportedBy": "http://localhost:3100"
+}
