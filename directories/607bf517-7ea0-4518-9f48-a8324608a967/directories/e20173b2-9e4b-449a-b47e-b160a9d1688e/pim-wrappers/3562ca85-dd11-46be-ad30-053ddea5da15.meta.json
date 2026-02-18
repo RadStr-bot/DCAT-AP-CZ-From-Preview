@@ -1,0 +1,21 @@
+{
+  "iri": "3562ca85-dd11-46be-ad30-053ddea5da15",
+  "projectIri": "070972ce-f5fb-49eb-96bb-94bc4629f444",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "documentBaseUrl": "https://op.europa.eu/documents/3938058/11669184/eli.owl/",
+    "label": {
+      "en": "eli"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-02-18T10:23:51.156Z",
+    "modificationDate": "2026-02-18T10:23:51.267Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-18T10:30:33.133Z",
+  "_exportedBy": "http://localhost:3100"
+}

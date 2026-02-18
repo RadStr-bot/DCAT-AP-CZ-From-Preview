@@ -1,0 +1,21 @@
+{
+  "iri": "e23c1be2-ea01-434b-9c96-7cba66af5fd1",
+  "projectIri": "e4782d3b-70bf-48e3-9c64-e8f56777121b",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "documentBaseUrl": "https://datagov-cz.github.io/cache-slovniku/foaf.ttl",
+    "label": {
+      "en": "foaf"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-02-18T10:23:50.784Z",
+    "modificationDate": "2026-02-18T10:23:50.933Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-18T10:30:33.130Z",
+  "_exportedBy": "http://localhost:3100"
+}

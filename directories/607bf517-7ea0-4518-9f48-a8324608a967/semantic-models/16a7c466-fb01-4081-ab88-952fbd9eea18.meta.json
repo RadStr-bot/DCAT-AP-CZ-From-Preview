@@ -1,0 +1,21 @@
+{
+  "iri": "16a7c466-fb01-4081-ab88-952fbd9eea18",
+  "projectIri": "4fa5a081-1ce4-454f-8824-8cbc906a1aa2",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "DCAT-AP-CZ: Basic data model for data catalogs"
+    },
+    "documentBaseUrl": "https://ofn.gov.cz/dcat-ap-cz/draft/cs/"
+  },
+  "metadata": {
+    "creationDate": "2026-02-18T10:23:54.436Z",
+    "modificationDate": "2026-02-18T10:23:54.531Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-18T10:30:33.147Z",
+  "_exportedBy": "http://localhost:3100"
+}

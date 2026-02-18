@@ -1,0 +1,21 @@
+{
+  "iri": "bb8c89dc-0d65-40c5-849a-7a7964f3834c",
+  "projectIri": "d2c2fa0a-0d5d-4804-b695-28b4feed26d9",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "documentBaseUrl": "https://www.w3.org/ns/odrl/2/ODRL22.ttl",
+    "label": {
+      "en": "ODRL22"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-02-18T10:23:49.524Z",
+    "modificationDate": "2026-02-18T10:23:49.654Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-18T10:30:33.119Z",
+  "_exportedBy": "http://localhost:3100"
+}

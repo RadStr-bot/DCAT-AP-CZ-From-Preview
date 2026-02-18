@@ -1,0 +1,21 @@
+{
+  "iri": "4f140ac6-8454-455a-8f3f-a188e0fdfd1e",
+  "projectIri": "45f0ea19-6343-4bcf-ae26-80d0f81e57ff",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "documentBaseUrl": "https://semiceu.github.io/DCAT-AP/r5r/releases/3.0.0/voc/r5r.jsonld",
+    "label": {
+      "en": "r5r"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-02-18T10:23:51.301Z",
+    "modificationDate": "2026-02-18T10:23:51.408Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-18T10:30:33.134Z",
+  "_exportedBy": "http://localhost:3100"
+}

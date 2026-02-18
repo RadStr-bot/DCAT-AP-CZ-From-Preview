@@ -1,0 +1,16 @@
+{
+  "iri": "59782330-f88f-4d64-8c6a-68a9caf28c44",
+  "projectIri": "sp64j",
+  "types": [
+    "http://dataspecer.com/resources/local/visual-model"
+  ],
+  "userMetadata": {},
+  "metadata": {
+    "creationDate": "2026-02-18T10:23:55.601Z",
+    "modificationDate": "2026-02-18T10:23:55.734Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-18T10:30:33.170Z",
+  "_exportedBy": "http://localhost:3100"
+}

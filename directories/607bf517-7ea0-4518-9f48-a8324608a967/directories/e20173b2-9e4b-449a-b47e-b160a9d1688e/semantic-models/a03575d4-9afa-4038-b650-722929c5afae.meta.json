@@ -1,0 +1,21 @@
+{
+  "iri": "a03575d4-9afa-4038-b650-722929c5afae",
+  "projectIri": "eff7dd8c-68bc-48e1-b508-898a7dfd8228",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "DCAT-AP 3.0.1 based on DCAT 3 DAP"
+    },
+    "documentBaseUrl": "https://mff-uk.github.io/specifications/dcat-ap/"
+  },
+  "metadata": {
+    "creationDate": "2026-02-18T10:23:51.449Z",
+    "modificationDate": "2026-02-18T10:23:51.570Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-18T10:30:33.136Z",
+  "_exportedBy": "http://localhost:3100"
+}

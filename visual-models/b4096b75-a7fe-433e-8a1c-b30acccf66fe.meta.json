@@ -1,0 +1,16 @@
+{
+  "iri": "b4096b75-a7fe-433e-8a1c-b30acccf66fe",
+  "projectIri": "jg9lf",
+  "types": [
+    "http://dataspecer.com/resources/local/visual-model"
+  ],
+  "userMetadata": {},
+  "metadata": {
+    "creationDate": "2026-02-18T10:23:55.459Z",
+    "modificationDate": "2026-02-18T10:23:55.580Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-18T10:30:33.168Z",
+  "_exportedBy": "http://localhost:3100"
+}

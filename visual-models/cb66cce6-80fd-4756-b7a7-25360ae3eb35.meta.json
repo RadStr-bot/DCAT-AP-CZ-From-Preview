@@ -1,0 +1,16 @@
+{
+  "iri": "cb66cce6-80fd-4756-b7a7-25360ae3eb35",
+  "projectIri": "hvxg5",
+  "types": [
+    "http://dataspecer.com/resources/local/visual-model"
+  ],
+  "userMetadata": {},
+  "metadata": {
+    "creationDate": "2026-02-18T10:23:55.172Z",
+    "modificationDate": "2026-02-18T10:23:55.292Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-18T10:30:33.165Z",
+  "_exportedBy": "http://localhost:3100"
+}
