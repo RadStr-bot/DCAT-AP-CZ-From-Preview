@@ -1,0 +1,21 @@
+{
+  "iri": "9b898664-3725-4fea-acaa-cd0455b2a781/eb15b9c7-b2ad-462f-b3b1-a457d4798d0d/718c83c3-0b64-4f6c-ad44-9981d490bfc4/185219c0-b71a-4495-bafe-97f6a19bae80/f1aaa16d-721e-4ce9-be49-801586d9fcbd",
+  "projectIri": "261744f5-1558-4769-b20b-4ac3fa3de8e2",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "documentBaseUrl": "https://datagov-cz.github.io/cache-slovniku/time.ttl",
+    "label": {
+      "en": "time"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-02-18T10:57:41.735Z",
+    "modificationDate": "2026-02-18T10:57:42.693Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-02-18T10:57:55.354Z",
+  "_exportedBy": "http://localhost:3100"
+}

@@ -1,0 +1,100 @@
+{
+  "identifier": "9b898664-3725-4fea-acaa-cd0455b2a781/76c2bccd-90fa-4ad1-ba4f-4c2bcf8eeaa2",
+  "version": 1,
+  "type": "http://dataspecer.com/resources/local/visual-model",
+  "entities": [
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "9b898664-3725-4fea-acaa-cd0455b2a781/cef1f81f-f50b-4ed4-a65e-bc36013a1e06",
+      "color": "#ffb770",
+      "identifier": "xsmrs"
+    },
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "9b898664-3725-4fea-acaa-cd0455b2a781/7acba1cd-af1e-4a9b-bf86-066a0bface25",
+      "color": "#92bcea",
+      "identifier": "9db1f"
+    },
+    {
+      "model": "9b898664-3725-4fea-acaa-cd0455b2a781/cef1f81f-f50b-4ed4-a65e-bc36013a1e06",
+      "representedEntity": "y1zfn4ysx6fm7xdp67s",
+      "position": {
+        "x": 1450,
+        "y": -340,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "gldmb"
+    },
+    {
+      "model": "9b898664-3725-4fea-acaa-cd0455b2a781/cef1f81f-f50b-4ed4-a65e-bc36013a1e06",
+      "representedEntity": "d9r04ar8r58m7xecuvl",
+      "position": {
+        "x": 1930,
+        "y": -340,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "jcybd"
+    },
+    {
+      "model": "9b898664-3725-4fea-acaa-cd0455b2a781/cef1f81f-f50b-4ed4-a65e-bc36013a1e06",
+      "representedEntity": "hykk71m5hkdm7xefe0a",
+      "position": {
+        "x": 1410,
+        "y": -570,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "lnvce"
+    },
+    {
+      "model": "9b898664-3725-4fea-acaa-cd0455b2a781/cef1f81f-f50b-4ed4-a65e-bc36013a1e06",
+      "representedRelationship": "d91gp9mzp5m7xedn1n",
+      "waypoints": [],
+      "visualSource": "gldmb",
+      "visualTarget": "jcybd",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "83pqvf"
+    },
+    {
+      "model": "9b898664-3725-4fea-acaa-cd0455b2a781/cef1f81f-f50b-4ed4-a65e-bc36013a1e06",
+      "representedRelationship": "phjz1zpm3fkm7xefoj8",
+      "waypoints": [],
+      "visualSource": "lnvce",
+      "visualTarget": "gldmb",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "5yyop"
+    },
+    {
+      "identifier": "7wzve-model-metadata-entity",
+      "type": [
+        "entity-model-type"
+      ],
+      "label": {
+        "en": "Dataset annotation with related terms",
+        "cs": "Anotace datové sady souvisejícími pojmy a ISVS, který ji zahrnuje"
+      }
+    }
+  ]
+}
