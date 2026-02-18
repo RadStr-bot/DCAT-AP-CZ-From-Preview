@@ -1,13 +1,9 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://ofn.gov.cz/dcat-ap-cz-360-2023/2025-08-12/katalog/schéma.json",
-  "title": "Katalog",
-  "description": "Řízená kolekce metadat o datových sadách a datových službách",
   "type": "object",
   "required": [
     "@context",
-    "iri",
-    "typ",
     "název",
     "popis",
     "poskytovatel",
@@ -27,26 +23,6 @@
           "items": {
             "type": "string",
             "format": "iri"
-          }
-        }
-      ]
-    },
-    "iri": {
-      "type": "string",
-      "format": "iri"
-    },
-    "typ": {
-      "oneOf": [
-        {
-          "const": "Katalog"
-        },
-        {
-          "type": "array",
-          "contains": {
-            "const": "Katalog"
-          },
-          "items": {
-            "type": "string"
           }
         }
       ]
@@ -106,7 +82,7 @@
       ]
     },
     "kontaktní_bod": {
-      "title": "kontaktní bod",
+      "title": "Organizace",
       "description": "Tato vlastnost obsahuje kontaktní informace, které mohou být využity pro zasílání připomínek ke katalogu.",
       "type": "object",
       "required": [
@@ -168,16 +144,17 @@
     "domovská_stránka": {
       "title": "domovská stránka",
       "description": "Tato vlastnost odkazuje na domovskou stránku lokálního katalogu, kam mohou chodit uživatelé.",
-      "type": "string",
-      "format": "iri",
-      "pattern": "^https://.*$",
-      "examples": [
-        "https://www.trebic.cz/zdroj/aktualita/2020/dopadení-lupiče-na-francouzské-ulici"
-      ]
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "iri",
+        "pattern": "^https://.*$",
+        "examples": [
+          "https://www.trebic.cz/zdroj/aktualita/2020/dopadení-lupiče-na-francouzské-ulici"
+        ]
+      }
     },
     "datová_sada": {
-      "title": "datová sada",
-      "description": "Kolekce dat, která je katalogizována v katalogu.",
       "type": "array",
       "items": {
         "type": "string",

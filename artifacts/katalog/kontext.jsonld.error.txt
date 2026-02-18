@@ -1,0 +1,13 @@
+Not a profile we can split.
+
+Error: Not a profile we can split.
+    at splitProfileToSingleConcepts (/home/runner/work/DCAT-AP-CZ-From-Preview/DCAT-AP-CZ-From-Preview/dataspecer-source-code/packages/core-v2/src/hierarchical-semantic-aggregator/utils.ts:48:9)
+    at <anonymous> (/home/runner/work/DCAT-AP-CZ-From-Preview/DCAT-AP-CZ-From-Preview/dataspecer-source-code/packages/core-v2/src/hierarchical-semantic-aggregator/utils.ts:45:42)
+    at Array.map (<anonymous>)
+    at splitProfileToSingleConcepts (/home/runner/work/DCAT-AP-CZ-From-Preview/DCAT-AP-CZ-From-Preview/dataspecer-source-code/packages/core-v2/src/hierarchical-semantic-aggregator/utils.ts:45:28)
+    at JsonLdAdapter.generateClassesContext (/home/runner/work/DCAT-AP-CZ-From-Preview/DCAT-AP-CZ-From-Preview/dataspecer-source-code/packages/json/src/json-ld/json-ld-adapter.ts:220:29)
+    at JsonLdAdapter.generate (/home/runner/work/DCAT-AP-CZ-From-Preview/DCAT-AP-CZ-From-Preview/dataspecer-source-code/packages/json/src/json-ld/json-ld-adapter.ts:110:29)
+    at JsonLdGenerator.generateToObject (/home/runner/work/DCAT-AP-CZ-From-Preview/DCAT-AP-CZ-From-Preview/dataspecer-source-code/packages/json/src/json-ld/json-ld-generator.ts:70:20)
+    at JsonLdGenerator.generateToStream (/home/runner/work/DCAT-AP-CZ-From-Preview/DCAT-AP-CZ-From-Preview/dataspecer-source-code/packages/json/src/json-ld/json-ld-generator.ts:24:30)
+    at Generator.generateArtefact (/home/runner/work/DCAT-AP-CZ-From-Preview/DCAT-AP-CZ-From-Preview/dataspecer-source-code/packages/core/src/generator/generator.ts:82:21)
+    at async DefaultArtifactBuilder.writeArtifacts (/home/runner/work/DCAT-AP-CZ-From-Preview/DCAT-AP-CZ-From-Preview/dataspecer-source-code/packages/specification/src/v1/default-artifact-builder.ts:137:21)
